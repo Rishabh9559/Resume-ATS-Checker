@@ -22,7 +22,7 @@ It uses **Google Gemini AI** to analyze your resume and job description, then pr
 
 ## 📸 Demo
 
-![ATS Resume Checker UI](homepage.png) <br>
+![ATS Resume Checker UI](demo.gif) <br>
 live app: https://rishabh9559-resume-ats-checker-main-0u8tsv.streamlit.app/
 
 ---
